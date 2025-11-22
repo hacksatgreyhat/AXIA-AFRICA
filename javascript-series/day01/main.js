@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // console.log("Hello, Mobile Team! This is Day 001 of the JavaScript Series.");
 // alert("Welcome to Day 001 of the JavaScript Series!");
 
@@ -64,3 +65,12 @@ console.log("undef", undef);
 let nu = null;
 
 // BIGINT holds values that are larger for numbers
+=======
+console.log("Hello, Mobile Team! This is Day 001 of the JavaScript Series.");
+alert("Welcome to Day 001 of the JavaScript Series!");
+console.log("welcome to cyber dojo");
+const m = "caleb";
+console.log("name:", m);
+let x = 20;
+console.log(x);
+>>>>>>> a3cb76f (local changes)
